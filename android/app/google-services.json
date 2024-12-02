@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600417777800",
+    "project_id": "chitter-chatter-85ddf",
+    "storage_bucket": "chitter-chatter-85ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600417777800:android:77fa5e0b55c059a77a073d",
+        "android_client_info": {
+          "package_name": "com.example.chitter_chatter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrTvNJgbhKRr5MM0bTVj7EJCidSKENSwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
